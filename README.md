@@ -12,7 +12,6 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.4-38B2AC?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
-[🚀 Live Demo](#) • [📖 Documentation](#features) • [🔧 Installation](#installation) • [🤝 Contributing](#contributing)
 
 </div>
 
@@ -30,21 +29,6 @@ ADmyBRAND Insights is a cutting-edge analytics dashboard designed for digital ma
 - **Professional UI** - Modern glass morphism design with dark/light themes
 - **Export Capabilities** - Multi-format data export (CSV, PDF, JSON)
 - **Advanced Filtering** - Comprehensive data filtering and search functionality
-
----
-
-## 🖼️ Screenshots
-
-<div align="center">
-  <img src="docs/dashboard-light.png" alt="Dashboard Light Mode" width="45%" />
-  <img src="docs/dashboard-dark.png" alt="Dashboard Dark Mode" width="45%" />
-</div>
-
-<div align="center">
-  <img src="docs/mobile-responsive.png" alt="Mobile Responsive" width="30%" />
-  <img src="docs/notifications.png" alt="Notifications Panel" width="30%" />
-  <img src="docs/theme-toggle.png" alt="Theme Toggle" width="30%" />
-</div>
 
 ---
 
@@ -349,42 +333,6 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 - [ ] Predictive analytics
 - [ ] Custom report builder
 - [ ] API integrations
-
----
-
-## 🐛 Known Issues
-
-- Theme toggle may need a page refresh in some browsers
-- Export functionality is currently mocked
-- Some animations may be slower on older devices
-
-See our [Issues](https://github.com/yourusername/admybrand-analytics-dashboard/issues) page for a complete list.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-- [Recharts](https://recharts.org/) for beautiful chart components
-- [Shadcn/UI](https://ui.shadcn.com/) for the component library
-- [Tailwind CSS](https://tailwindcss.com/) for the styling system
-- [Lucide](https://lucide.dev/) for the icon library
-
----
-
-## 📞 Support
-
-- **Documentation**: [docs.admybrand.com](#)
-- **Community**: [Discord Server](#)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/admybrand-analytics-dashboard/issues)
-- **Email**: support@admybrand.com
-
----
 
 <div align="center">
 
